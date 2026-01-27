@@ -142,7 +142,10 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: "/gwendolin-tan.png",
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Resume", link: "/resume" },
+    ],
 
     sidebar: {},
 

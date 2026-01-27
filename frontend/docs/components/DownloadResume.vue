@@ -49,7 +49,9 @@ const { isDark } = useData();
 const buttonClasses = computed(() => [
   "!border-none !py-2.5 !px-6 !text-center !no-underline !inline-block !text-base !m-1 !cursor-pointer !rounded-full !font-medium !transition-all !duration-300 !shadow-sm",
   "!font-sans !tracking-wide",
-  isDark.value ? "!bg-[#0059aa] hover:!bg-[#004c91]" : "!bg-[#3e94e8] hover:!bg-[#2a7fd1]",
+  isDark.value
+    ? "!bg-[#a855f7] hover:!bg-[#ec489c]" // pink (dark mode)
+    : "!bg-[#ec4899] hover:!bg-[#d946ef]", // purple (light mode)
   "!text-white",
 ]);
 

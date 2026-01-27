@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Home"
-description: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery. Chat with Advocado, my AI assistant!"
+description: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery."
 keywords: "Gwendolin Tan, product manager, FWD Insurance, Lazada, Amadeus, product strategy, digital platforms, Singapore, portfolio"
 author: "Gwendolin Tan"
 head:
@@ -10,7 +10,7 @@ head:
       content: "Home"
   - - meta
     - property: og:description
-      content: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery. Chat with Advocado, my AI assistant!"
+      content: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery."
   - - meta
     - property: og:type
       content: website
@@ -39,7 +39,7 @@ hero:
   actions:
     - theme: brand
       text: Download Resume
-      link: https://media.licdn.com/dms/document/media/v2/D562DAQE-PPC0R22v3Q/profile-treasury-document-pdf-analyzed/B56ZksaKxpI0Ag-/0/1757386683335?e=1767830400&v=beta&t=RHTkWh9QEP30kCOGsV36dkqupOYLczClfdy56xMUH00&acrobatPromotionSource=linkedin_chrome-post_view
+      link: /resume?auto=true
 
 features:
   - title: ⌛ 10+
