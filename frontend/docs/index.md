@@ -40,6 +40,9 @@ hero:
     - theme: brand
       text: Download Resume
       link: /resume?auto=true
+    - theme: alt
+      text: Buy CNY Snacks
+      link: https://snackalicious.vercel.app
 
 features:
   - title: ⌛ 10+
